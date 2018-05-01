@@ -10,3 +10,4 @@
 ## Thanks
 
 * [create-react-app](https://github.com/facebook/create-react-app) for letting me build this thing in like 30 minutes and not waste too much of my time
+* GitHub for the free hosting (GitHub Pages for the win)
