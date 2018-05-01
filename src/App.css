@@ -1,0 +1,11 @@
+.app {
+    align-items: center;
+    background-color: #034694;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+.image {
+    filter: drop-shadow(30px 30px 8px #ffffff);
+}
